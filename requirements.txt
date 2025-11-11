@@ -1,0 +1,8 @@
+flask
+flask-cors
+beautifulsoup4
+lxml
+google-api-python-client
+google-generativeai
+requests
+
