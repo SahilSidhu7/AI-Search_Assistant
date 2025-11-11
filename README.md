@@ -403,7 +403,7 @@ components:
 
 ### Screenshot 1: Initial Search Interface
 
-![](./image1.png){width="6.491666666666666in"
+![](Screenshots/image1.png){width="6.491666666666666in"
 height="5.116666666666666in"}
 
 **Description**: The main search interface showing the header with login
@@ -420,10 +420,10 @@ input field for users to enter their queries.
 
 ### Screenshot 2: Search in Progress
 
-![](./image2.png){width="6.483333333333333in"
+![](Screenshots/image2.png){width="6.483333333333333in"
 height="3.158333333333333in"}
 
-![](./image3.png){width="6.5in" height="3.175in"}
+![](Screenshots/image3.png){width="6.5in" height="3.175in"}
 
 **Description**: Shows the loading animation with step-by-step progress
 indicators. The interface displays:
@@ -442,10 +442,10 @@ indicators. The interface displays:
 
 ### Screenshot 3: Search Results Display
 
-![](./image4.png){width="6.483333333333333in"
+![](Screenshots/image4.png){width="6.483333333333333in"
 height="3.1416666666666666in"}
 
-![](./image5.png){width="6.483333333333333in" height="3.1in"}
+![](Screenshots/image5.png){width="6.483333333333333in" height="3.1in"}
 
 **Description**: Displays the comprehensive answer in a chat-style
 interface. The answer is formatted with markdown, showing:
@@ -464,7 +464,7 @@ interface. The answer is formatted with markdown, showing:
 
 ### Screenshot 4: Follow-up Question Interface
 
-![](./image6.png){width="6.483333333333333in"
+![](Screenshots/image6.png){width="6.483333333333333in"
 height="3.1416666666666666in"}
 
 **Description**: Shows the search bar moved to the bottom of the screen
@@ -484,7 +484,7 @@ after the first search. The interface displays:
 
 ### Screenshot 5: Search History Sidebar
 
-![](./image7.png){width="6.491666666666666in" height="3.125in"}
+![](Screenshots/image7.png){width="6.491666666666666in" height="3.125in"}
 
 **Description**: The left sliding sidebar showing search history with:
 
@@ -503,7 +503,7 @@ after the first search. The interface displays:
 
 ### Screenshot 6: Login Modal {#screenshot-6-login-modal-1}
 
-![](./image8.png){width="6.483333333333333in"
+![](Screenshots/image8.png){width="6.483333333333333in"
 height="3.058333333333333in"}
 
 **Description**: The login/signup modal popup showing:
@@ -526,6 +526,8 @@ height="3.058333333333333in"}
 ## 7. Project Flow
 
 ### 7.1 User Flow Diagram
+
+![](Screenshots/diagram-export-11-11-2025-12_08_47-PM.png)
 
 ### 7.2 Technical Flow
 
@@ -561,7 +563,7 @@ height="3.058333333333333in"}
 
 ### 7.3 Data Flow
 
-![](./image10.png){width="6.5in" height="6.025in"}
+![](Screenshots/image10.png)
 
 ## 8. Testing
 
